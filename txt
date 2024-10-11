@@ -1,0 +1,10 @@
+Abra o REPL; Imprima a mensagem:  “Eu não tenho  medo de parênteses” Some 1, 2 e 3 e multiplique o resultado por 10 menos 3;  Imprima a mensagem “Atividade Concluída...”; Encerre o REPL.
+Abra o REPL; Escreva a função if que retorna “Sim” se a condição for verdadeira e “Não” caso contrário. Encerre o
+Abra o REPL; Escreva a função if que retorna a soma de 10 com 5 se a condição for falsa. Caso contrário retorna um número randômico. Encerre o REPL. Dica:  A função rand retorna um número randômico.
+Abra o REPL; Escreva a função “do” que executa sequencialmente as seguintes avaliações: Multiplica 3 por 4; Divide 8 por 4; Soma 2 com 3. Encerre o REPL.
+Abra o REPL; Escreva a função “if” que imprime a mensagem “Gerando um número randômico” e exibe o número gerado, caso a condição seja verdadeira; Encerre o REPL.
+Abra o REPL; Escreva a função “when” que imprime a mensagem “Gerando um número randômico” e exibe o número gerado, caso a condição seja verdadeira; Encerre o REPL.
+Abra o REPL; Com o emprego da special form def, escreva o código que efetua a ligação do símbolo x ao valor 10; Em seguida, avalie o valor do símbolo x; Encerre o REPL.
+Abra o REPL; Com a macro fn defina uma função que não recebe argumentos e que também nada faz; Encerre o REPL.
+Abra o REPL; Com a macro fn defina uma função que recebe um parâmetro chamado par e retorna seu valor ao quadrado (par multiplicado por ele mesmo). Encerre o REPL.
+Abra o REPL; Com a macro fn defina uma função que recebe um parâmetro chamado par e retorna seu valor ao quadrado (par multiplicado por ele mesmo). Após a definição da função anônima (com fn) efetuar a aplicação da função passando a ela um argumento com o valor 5. Encerre o REPL.
